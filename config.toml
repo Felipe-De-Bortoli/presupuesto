@@ -1,0 +1,8 @@
+[theme]
+base = "dark"                         # "light" o "dark"
+primaryColor = "#80ff00"              # botones, radio, slider
+backgroundColor = "#272d2d"           # fondo de la página
+secondaryBackgroundColor = "#23CE6B"  # fondo de las cajitas
+textColor = "#f6f8ff"                 # texto
+font = "sans-serif"                   # "sans-serif", "serif" o "monospace"
+baseRadius = "full"                   # "none", "small", "medium", "large", "full"
